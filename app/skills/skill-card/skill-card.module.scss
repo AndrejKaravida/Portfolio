@@ -1,0 +1,14 @@
+.card {
+    min-height: 540px;
+    border: 2px solid var(--primary-blue);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 3px 3px 8px 0 rgba(135, 135, 135, 1);
+
+    &Headline {
+        border-bottom: 1px solid var(--primary-blue);
+        text-align: center;
+        height: 40px;
+    }
+}
+

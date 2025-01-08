@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 0;
+  z-index: 1;
+
+  &Border {
+    padding: 0;
+    border-top: 1px solid #f0f0f0;
+    width: 60%;
+    margin: 0 0 0 20%;
+  }
+
+  &Text {
+    color: black;
+    margin-top: 13px;
+    margin-bottom: 13px;
+  }
+}
